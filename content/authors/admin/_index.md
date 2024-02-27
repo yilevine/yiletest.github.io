@@ -10,7 +10,7 @@ first_name: Yile
 last_name: Fu
 
 # Status emoji
-status: 😃
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
